@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">bolagdk</string>
+    <array name="logos">
+        <item>@drawable/img_barca</item>
+        <item>@drawable/img_madrid</item>
+        <item>@drawable/img_bayern</item>
+        <item>@drawable/img_city</item>
+        <item>@drawable/img_lfc</item>
+        <item>@drawable/img_chelsea</item>
+        <item>@drawable/img_acm</item>
+        <item>@drawable/img_arsenal</item>
+
+    </array>
+
+    <string-array name="namaklub">
+        <item>FC Barcelona</item>
+        <item>Real Madrid</item>
+        <item>Bayern Munchen</item>
+        <item>Manchester City</item>
+        <item>Liverpool FC</item>
+        <item>Chelsea FC</item>
+        <item>AC Milan</item>
+        <item>Arsenal</item>
+    </string-array>
+
+
+    <string-array name="deskrip">
+        <item>Barca adalah klub kesayangan decul. decul selalu cinta barca.</item>
+        <item>madrid tanpa cr cuma ampas.</item>
+        <item>Udah bikin liga sendiri aja liga bayern munchen. menang terus lagian</item>
+        <item>klub gaib, fans ada kalo menang doang itupun yang terlihat sedikit.</item>
+        <item>Bango. Festival kuliner bango lebih sedap daripada nunggu juara liga inggris.</item>
+        <item>hey tayo hey tayo dia si chelsea tayo. senenengnya parkir bis chelsea selalu senang.</item>
+        <item>AC Milan adalah klub yg nganuu.</item>
+        <item>Klub lawak kesayangan oppa wenger spesialis nomer 4.</item>
+    </string-array>
+
+</resources>
